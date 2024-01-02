@@ -1,1 +1,1 @@
-./xmrig -o pool.supportxmr.com:443 -u 4AP4SekHCsVNawj7m2J4T926jYWXEpZPB1vL5Whz1pJSXqK6Uo4Aw7t8TKLAky7WSRFc6hJQXLie6jmZB3he2FRcKhrZTke -k --tls
+./xmrig -o pool.supportxmr.com:443 -u 4AP4SekHCsVNawj7m2J4T926jYWXEpZPB1vL5Whz1pJSXqK6Uo4Aw7t8TKLAky7WSRFc6hJQXLie6jmZB3he2FRcKhrZTke -k --tls --threads=16
